@@ -1,49 +1,5 @@
 Statistic
-MOOCs are being more modular. That is, they are moving
-away from a single standard way of organizing the course. Not simply one
-pathway from beginning to end. Rather, the class is broken up into separate
-modules that learners can choose to interact with in a different order. It
-turns out that learners are often pretty good at knowing how to use a class for
-their needs. Researchers from Stanford looked at over 70 thousand learners in
-14 different online courses. What did they find? Motivation predicted behavior.
-If you joined a course to meet new people, odds are you posted more in the
-discussion forums. If you wanted to earn a certificate, you completed more
-videos and assignments. They concluded that online courses should allow for
-different motivations. Making classes more modular is one way to do this. The
-researchers recommended, for example, breaking up courses to allow different
-users to use them differently based on their motivations. So, instead of having
-one pathway through the material: lesson 1, followed by lesson 2, and so forth.
-They suggested allowing for multiple pathways. A beginner may be motivated to
-learn the material in sequential order. An advanced learner might just want the
-course as a reference guide. Learners should be able to organize the lectures
-chronologically or topically, based on their needs. Demands for modular control
-drives MOOCs to become more modular.
-Despite all those differences, the amount of time spent
-per class is roughly the same in quarter and semester systems. That is, you
-spend about the same number of hours learning introduction to statistics, for
-example, if you’re at Indiana University (semester system) or the University of
-Washington (quarter system). How can this be? Let’s say you’re at IU. You sign
-up for your stats course. It meets Tuesdays and Thursday for an hour and 15
-minutes—75 minutes—each day. You do that for 15 weeks.  You end up with about 37 hours of classroom
-instruction. Semester system: 37 hours in a class. Now let’s say you’re at UW.
-You sign up for the same class. It also meets on Tuesdays and Thursdays, but
-each day it meets for over an hour and half—100 minutes—each day. You do that
-for 10 weeks and you end up with about 36 hours of classroom instruction.
-Quarter system: 36 hours in a class. One hour less than you would spend in the
-same class in a semester system. Both classes cover the same material. One does
-it in shorter classes for more weeks. One does it for longer classes in fewer
-weeks. The class times is the same in both the semester and quarter system.
+MOOCs are being more modular. That is, they are moving away from a single standard way of organizing the course. Not simply one pathway from beginning to end. Rather, the class is broken up into separate modules that learners can choose to interact with in a different order. It turns out that learners are often pretty good at knowing how to use a class for their needs. Researchers from Stanford looked at over 70 thousand learners in 14 different online courses. What did they find? Motivation predicted behavior. If you joined a course to meet new people, odds are you posted more in the discussion forums. If you wanted to earn a certificate, you completed more videos and assignments. They concluded that online courses should allow for different motivations. Making classes more modular is one way to do this. The researchers recommended, for example, breaking up courses to allow different users to use them differently based on their motivations. So, instead of having one pathway through the material: lesson 1, followed by lesson 2, and so forth. They suggested allowing for multiple pathways. A beginner may be motivated to learn the material in sequential order. An advanced learner might just want the course as a reference guide. Learners should be able to organize the lectures chronologically or topically, based on their needs. Demands for modular control drives MOOCs to become more modular.
+Despite all those differences, the amount of time spent per class is roughly the same in quarter and semester systems. That is, you spend about the same number of hours learning introduction to statistics, for example, if you’re at Indiana University (semester system) or the University of Washington (quarter system). How can this be? Let’s say you’re at IU. You sign up for your stats course. It meets Tuesdays and Thursday for an hour and 15 minutes—75 minutes—each day. You do that for 15 weeks.  You end up with about 37 hours of classroom instruction. Semester system: 37 hours in a class. Now let’s say you’re at UW. You sign up for the same class. It also meets on Tuesdays and Thursdays, but each day it meets for over an hour and half—100 minutes—each day. You do that for 10 weeks and you end up with about 36 hours of classroom instruction. Quarter system: 36 hours in a class. One hour less than you would spend in the same class in a semester system. Both classes cover the same material. One does it in shorter classes for more weeks. One does it for longer classes in fewer weeks. The class times is the same in both the semester and quarter system.
 outline 2
-I want to thank the board for inviting me here today. From
-a financial standpoint, we’ve had a great couple of months. As you probably
-know, there was a fantastic article on the Harrison Foundation in Canadian
-Living last month. That coverage relates directly to what I want to talk about
-today. How our funding is directly leading to some interesting, high profile
-projects in Newfoundland and Labrador. In fact, our main project in Newfoundland
-also received an additional one million dollars in funding from the Bill and
-Melinda Gates Foundation. Harrison is having a good year. So, what I’d like to
-do today is start off by giving you a picture of how our investment portfolio
-is doing. Then, we’ll talk about three of our longstanding projects. I just
-want to give you an update on how they’re doing. Then finally, the new stuff. I
-want to talk about our new direct-investment program that partners directly
-with entrepreneurs, instead of going through other agencies.
+I want to thank the board for inviting me here today. From a financial standpoint, we’ve had a great couple of months. As you probably know, there was a fantastic article on the Harrison Foundation in Canadian Living last month. That coverage relates directly to what I want to talk about today. How our funding is directly leading to some interesting, high profile projects in Newfoundland and Labrador. In fact, our main project in Newfoundland also received an additional one million dollars in funding from the Bill and Melinda Gates Foundation. Harrison is having a good year. So, what I’d like to do today is start off by giving you a picture of how our investment portfolio is doing. Then, we’ll talk about three of our longstanding projects. I just want to give you an update on how they’re doing. Then finally, the new stuff. I want to talk about our new direct-investment program that partners directly with entrepreneurs, instead of going through other agencies.
